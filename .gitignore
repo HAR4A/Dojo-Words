@@ -1,0 +1,44 @@
+# Visual Studio Debug folder
+[Oo]bj/
+[Bb]in/
+# Visual Studio metadata file
+*.user
+
+# Resharper files
+_ReSharper/
+
+# Visual Studio files
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.csproj
+*.csproj.user
+
+# Node.js Tools for Visual Studio
+.vscode
+# Build results
+[Dd]ebug/
+[Rr]elease/
+# NuGet packages
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+# Misc
+*.cache
+*.log
+
+# Visual Studio database projects
+*.dbmdl
+# Windows default exception file
+*.exe.config
+
+# Windows default anti-virus folder
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+
+# Avoid using other IDEs
+.idea/
